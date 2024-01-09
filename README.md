@@ -1,4 +1,4 @@
-# Proyecto de Extracción de Frames de Video con OpenCV y Emgu.CV en .NET
+# Proyecto de Extracción de rasgos faciales en Frames de Video con OpenCV y Emgu.CV en .NET
 
 ## Librerías Utilizadas:
 - **Emgu.CV:** Biblioteca de visión por computadora basada en OpenCV para .NET.
